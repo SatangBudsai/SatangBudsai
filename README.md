@@ -1,6 +1,7 @@
-<a href="https://app.daily.dev/Satang"><img src="https://api.daily.dev/devcards/c2d7223e1b9e4f07930fd1ddb5bfbc90.png?r=s78" width="400" alt="Satang Budsai's Dev Card"/></a>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satang Budsai
 =====================================================================================================================================
+<a href="https://app.daily.dev/Satang"><img src="https://api.daily.dev/devcards/c2d7223e1b9e4f07930fd1ddb5bfbc90.png?r=s78" width="200" alt="Satang Budsai's Dev Card"/></a>
 
 Web Developer and Designer
 --------------------------
@@ -37,10 +38,10 @@ Web Developer and Designer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/MisterSatang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/SatangBudsai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MisterSatang"><img src="https://github-readme-stats.vercel.app/api?username=MisterSatang&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MisterSatang's GitHub stats" /></a>
+<a href="http://www.github.com/SatangBudsai"><img src="https://github-readme-stats.vercel.app/api?username=SatangBudsai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SatangBudsai's GitHub stats" /></a>
