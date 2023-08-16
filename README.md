@@ -11,7 +11,6 @@ Web Developer and Designer
 
 ### Skills
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SatangBudsai?theme=dark&font=Antic&ext=activity)
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -35,6 +34,7 @@ Web Developer and Designer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/SatangBudsai?theme=dark&font=Antic&ext=activity)
 
 ### Socials
 
