@@ -1,8 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satang Budsai
 =====================================================================================================================================
-<a href="https://app.daily.dev/Satang"><img src="https://api.daily.dev/devcards/c2d7223e1b9e4f07930fd1ddb5bfbc90.png?r=s78" width="200" alt="Satang Budsai's Dev Card"/></a>
-
+<a href="https://app.daily.dev/satang"><img src="https://api.daily.dev/devcards/v2/CcaGxizqQ4aNG7gRSgDnx.png?type=default&r=9d0" width="356" alt="Satang Budsai's Dev Card"/></a>
 Web Developer and Designer
 --------------------------
 
