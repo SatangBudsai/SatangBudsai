@@ -8,6 +8,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in ChiangMai Thailand
 * ✉️  You can contact me at [mastersatang@gmail.com](mailto:mastersatang@gmail.com)
+* 🧊 LinkedIn : https://www.linkedin.com/in/satang-budsai
 
 ### Skills
 
